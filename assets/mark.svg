@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alvarado / Villa Handyman Services">
+  <rect width="64" height="64" rx="8" fill="#2c2119"/>
+  <rect x="7" y="7" width="50" height="50" rx="4" fill="#f7f0e6"/>
+  <path fill="#3d5c47" d="M32 14 L50 28 H45 V46 H19 V28 H14 Z"/>
+  <rect x="29" y="34" width="6" height="12" fill="#f7f0e6"/>
+  <rect x="46" y="18" width="5" height="12" fill="#c24d2f"/>
+  <rect x="42" y="18" width="9" height="4" fill="#c24d2f"/>
+</svg>
